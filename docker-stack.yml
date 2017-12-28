@@ -46,6 +46,6 @@ volumes:
   grafana:
     driver: local
 
-networks:
-  softleader:
-    driver: overlay
+#networks:
+#  softleader:
+#    driver: overlay
